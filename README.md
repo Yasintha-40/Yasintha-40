@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Yasintha Randika</h1>
-<h3 align="center">A passionate Full Stack Developer and an IT Student at SLIIT | Exploring the Boundless World of Technology. 🚀</h3>
+<h3 align="center">A passionate Full Stack Developer | Exploring the Boundless World of Technology. 🚀</h3>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400px" />
