@@ -38,7 +38,7 @@
   </a>
 
   <!-- Instagram -->
-  <a href="https://www.instagram.com/yasintha_randika" target="_blank">
+  <a href="https://www.instagram.com/im_yasii.__" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" 
          alt="Instagram" width="40" height="40" style="border-radius: 50%; margin: 10px; transition: transform 0.3s;"/>
   </a>
